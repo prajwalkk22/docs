@@ -1,6 +1,6 @@
 ---
 id: git
-title:git
+title: git
 ---
 # 📘 Git & GitHub Documentation
 
