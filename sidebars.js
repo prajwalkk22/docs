@@ -16,6 +16,11 @@ const sidebars = {
       label: "Projects",
       items: ["projects/REST_API"],
     },
+     {
+      type: "category",
+      label: "leetcode",
+      items: ["leetcode/"],
+    },
   ],
 };
 
