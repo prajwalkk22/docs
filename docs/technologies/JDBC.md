@@ -1,3 +1,7 @@
+---
+id: JDBC
+title: JDBC
+---
 
 # JDBC (Java Database Connectivity) – Deep Notes
 

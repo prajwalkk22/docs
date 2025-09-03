@@ -8,6 +8,7 @@ const sidebars = {
         "technologies/java",
         "technologies/spring-boot",
         "technologies/git",
+        "technologies/JDBC"
       ],
     },
     {
